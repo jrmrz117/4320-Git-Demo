@@ -5,3 +5,7 @@ Yes
 ## Topics
 git pull
 git clone
+
+## Projects Requirements
+
+Teams must use git
